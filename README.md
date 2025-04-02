@@ -1,7 +1,7 @@
 # Insurance System with DB - Clean Code & Documentation
 
 ## 📌 Overview
-This project is an **Insurance Management System** developed using **Java** and **Object-Oriented Programming (OOP) principles**, following clean code practices. The system is designed to manage employees, departments, and their insurance details efficiently, while ensuring that the code remains clean, maintainable, and scalable. It also integrates a **database connection** for persistent storage.
+This project is an **Insurance Management System** developed using **Java** and **Object-Oriented Programming (OOP) principles**, following clean code practices. The system is designed to manage employees, departments, and their insurance details efficiently, while ensuring that the code remains clean, maintainable, and scalable. It also integrates a **database connection** for persistent storage. **It's my second task by the manager as a full-stack developer intern during summer semester internship**.
 
 ## 📁 Project Structure
 ```plaintext
